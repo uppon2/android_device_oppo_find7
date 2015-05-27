@@ -1,6 +1,0 @@
-###########################
-# LVM sepolicy
-###########################
-
-/dev/mapper/lvpool.* u:object_r:lvm_device:s0
-/dev/lvpool.* u:object_r:lvm_device:s0
