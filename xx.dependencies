@@ -1,0 +1,9 @@
+[
+    {
+        "remote":      "github",
+        "repository":  "NamelessRom/android_bootable_recovery-twrp",
+        "target_path": "bootable/recovery-twrp",
+        "revision":    "n-2.1"
+    }
+
+]
